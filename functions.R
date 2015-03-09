@@ -1,4 +1,4 @@
 fn <- function (x)
 {
-  sum(x)
+  mean(x)
 }
